@@ -1,9 +1,9 @@
-import Header from './Navbar';
-import Footer from './Footer';
-import Feature from './Home/Feature';
-import Service from './Home/Service';
-import Product from './Home/Product';
-import News from './Home/News';
+import Header from '../Navbar';
+import Footer from '../Footer';
+import Feature from './Feature';
+import Service from './Service';
+import Product from './Product';
+import News from './News';
 import { useState } from 'react';
 
 const Home = () => {
